@@ -1,7 +1,7 @@
 
 # Introdução à Programação Web
 
-_Repositório referencia para apresentação de atividades do módulo "Web - básico" do curso de programação do projeto desenvolve_
+_Repositório referencia para apresentação de atividades dos módulo do curso de "Web - básico" do programa projeto desenvolve_
 
 </header>
 
